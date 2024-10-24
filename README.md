@@ -27,7 +27,7 @@ Evaluation: Code for evaluating the model's performance on a test dataset.
 Inference: Code for performing real-time object detection on new images or videos.
 Dependencies:
 
-Python
-TensorFlow or PyTorch
-OpenCV
-YOLOv8 library
+Python,
+TensorFlow or PyTorch,
+OpenCV,
+YOLOv8 library.
